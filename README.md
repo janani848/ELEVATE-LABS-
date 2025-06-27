@@ -36,3 +36,30 @@ Applied OOP concepts like encapsulation and constructors
 Implemented practical CRUD logic for real-time data handling
 
 Strengthened data structure usage (ArrayList) for dynamic record management
+Here is a professional, consistent explanation for **Task 4 – NotesApp (Java File I/O)** to include in your internship GitHub repository:
+
+---
+
+ Task 4 – NotesApp (Java File I/O)
+
+A text-based Notes Manager application developed in Java that allows users to create and view personal notes through a simple command-line interface. This task focuses on the use of file I/O operations for persistent data storage and retrieval, applying core Java concepts like exception handling and resource management.
+ Core Features
+
+* Append notes to a local text file (`notes.txt`) using `FileWriter`
+* View all stored notes using `BufferedReader` and `FileReader`
+* User-friendly CLI with a menu-driven interface (add/view/exit)
+* Error handling for file access and I/O operations
+* Uses `try-with-resources` for automatic stream management
+
+ Learning Highlights
+
+* Learned how to read from and write to files in Java
+* Gained practical experience with `FileWriter`, `FileReader`, and `BufferedReader`
+* Understood exception handling patterns using `try-catch` and `try-with-resources`
+* Practiced file persistence to simulate real-world data storage
+* Reinforced Java fundamentals such as `Scanner` input, control flow (switch-case), and loop constructs
+
+Technical Focus
+
+This task was designed to simulate a basic data persistence mechanism without using databases. It introduced core Java file I/O streams and promoted good coding practices for resource and error management. The implementation supports extensibility for future enhancements such as note editing, deleting, or timestamping.
+
