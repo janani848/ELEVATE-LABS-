@@ -63,3 +63,29 @@ Technical Focus
 
 This task was designed to simulate a basic data persistence mechanism without using databases. It introduced core Java file I/O streams and promoted good coding practices for resource and error management. The implementation supports extensibility for future enhancements such as note editing, deleting, or timestamping.
 
+Task 5 – BankApp (Java OOP Simulation)
+A simple command-line banking application built using Java OOP principles. The app allows users to deposit, withdraw, and view their transaction history with a menu-driven interface.
+
+ Core Features
+* Account and SavingsAccount classes using inheritance
+
+* Deposit and withdraw with validation
+
+* Show balance and transaction history
+
+* Method overriding for withdrawal rules
+
+* Menu-driven CLI
+
+Learning Highlights
+* Practiced inheritance, encapsulation, and method overriding
+
+* Simulated real-world banking with object-oriented design
+
+* Strengthened use of loops, conditions, and class structures
+
+Technical Focus
+Focused on OOP design, simulating real scenarios without persistence. Prepares for future upgrades like file saving or account management systems.
+
+
+
